@@ -1,0 +1,8 @@
+C:\TRYOUT_LUTFI\nilai\nilai\bin\Debug\nilai.exe.config
+C:\TRYOUT_LUTFI\nilai\nilai\bin\Debug\nilai.exe
+C:\TRYOUT_LUTFI\nilai\nilai\bin\Debug\nilai.pdb
+C:\TRYOUT_LUTFI\nilai\nilai\obj\Debug\nilai.csproj.AssemblyReference.cache
+C:\TRYOUT_LUTFI\nilai\nilai\obj\Debug\nilai.csproj.SuggestedBindingRedirects.cache
+C:\TRYOUT_LUTFI\nilai\nilai\obj\Debug\nilai.csproj.CoreCompileInputs.cache
+C:\TRYOUT_LUTFI\nilai\nilai\obj\Debug\nilai.exe
+C:\TRYOUT_LUTFI\nilai\nilai\obj\Debug\nilai.pdb
